@@ -26,3 +26,18 @@ git init
 Это лишь некоторые функции markdown. 
 
 [Яндекс](https://www.yandex.ru "Я Yandex!") 
+
+H~2~O
+
+X^2^
+
+I need to highlight these ==very important words==.
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+~~The world is flat.~~
+
+term
+: definition
