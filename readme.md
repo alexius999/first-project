@@ -41,3 +41,6 @@ I need to highlight these ==very important words==.
 
 term
 : definition
+
+H<sub>2</sub>O
+X<sup>2</sup>
